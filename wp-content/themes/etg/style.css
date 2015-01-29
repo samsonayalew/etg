@@ -1,5 +1,5 @@
 /*
-Theme Name: Twenty Twelve
+Theme Name: etg
 Theme URI: http://wordpress.org/themes/twentytwelve
 Author: the WordPress team
 Author URI: http://wordpress.org/
@@ -526,7 +526,7 @@ a:hover {
 .site {
 	padding: 0 24px;
 	padding: 0 1.714285714rem;
-	background-color: #fff;
+	background-color:#ebf7eb;
 }
 .site-content {
 	margin: 24px 0 0;
